@@ -18,7 +18,7 @@ The LMN Banking System is a console-based banking application developed in C++. 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repository-url.git
+   git clone https://github.com/UdithaPJ/LMN-Banking-System.git
    ```
 2. Navigate to the project directory:
    ```sh
