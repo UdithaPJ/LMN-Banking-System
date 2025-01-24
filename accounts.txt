@@ -1,0 +1,2 @@
+customer004 23142 105000 C
+customer001 22375 0 C
